@@ -1,0 +1,13 @@
+New log file opened at Fri Jan 20 14:52:37 CET 2017 by 3772@Shine
+Taking next connection to: 3944
+New client attempting to connect on port: 3945-3944
+  Address = /192.168.88.101:3944
+This client on port 3945 has uuid b5e74517-3fae-4319-bbe5-682006cfecd4 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-b5e74517-3fae-4319-bbe5-682006cfecd4
+Taking next connection to: 3944
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 3772@Shine logs at Fri Jan 20 14:55:38 CET 2017, goodbye.
